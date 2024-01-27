@@ -58,7 +58,7 @@ let infobt = `
 *≡ OWNER*
   *GURU*
 ▢ Instagram :
-  • https://instagram.com/asli_guru69
+  • https://instagram.com/nawfal_the_ghost
 ▢ GitHub :
   • https://github.com/Guru322
 ▢ Telegram : 
